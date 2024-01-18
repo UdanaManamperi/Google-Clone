@@ -74,6 +74,13 @@ body {
   justify-content: center;
   margin-top: 30px;
 }
-
+.search-buttons button {
+  margin: 5px;
+  padding: 10px 15px;
+  background-color: #f8f8f8;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
 
 
