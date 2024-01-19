@@ -1,3 +1,5 @@
+
+![Website Screenshot](img/GoogleClone.png)
 # Google Search Engine Design Clone
 
 This project is a clone of the Google Search Engine design.
